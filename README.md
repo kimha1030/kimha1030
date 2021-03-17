@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Kimberly Hinostroza!👋</h1>
 <h2 align="center">Welcome to my page!</h2>
-<h3 align="center">I'm a Fullstack Software Developer from Medellin (Colombia), who is interested in Data Science and Machine Learning.</h3>
+<h3 align="center">I'm a Fullstack Software Developer from Medellin (Colombia)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimha1030&label=Profile%20views&color=0e75b6&style=flat" alt="kimha1030" /> </p>
 
+- 🔭 I’m currently studying **FullStack Web Development specialization**
 
-- 🔭 I’m currently working on **project to improve the performance of a Voice Bot Assistant**
-
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Data Science**
 
 - 🤝 I would like to participate in **projects that can impact people's lives.**
 
@@ -31,14 +30,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
-<h4 align="left"><em>Frameworks:</em></h4>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
-
-
 <h4 align="left"><em>Database:</em></h4>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <h4 align="left"><em>Other skills:</em></h4>
 <p align="left"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
