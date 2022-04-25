@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Fullstack Software Developer from Medellin (Colombia)</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimha1030&label=Profile%20views&color=0e75b6&style=flat" alt="kimha1030" /> </p>
-<br>
+
 - 🌱 I’m currently learning **React JS**
 
 - 🤝 I would like to participate in **projects that can impact people's lives.**
