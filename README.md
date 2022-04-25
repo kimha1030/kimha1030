@@ -4,9 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimha1030&label=Profile%20views&color=0e75b6&style=flat" alt="kimha1030" /> </p>
 <br>
-- 🔭 I’m currently studying **FullStack Web Development specialization**
-
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React JS**
 
 - 🤝 I would like to participate in **projects that can impact people's lives.**
 
