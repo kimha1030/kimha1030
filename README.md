@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kimberly Hinostroza!👋</h1>
+<h1 align="center">Hi, I'm Kimberly!👋</h1>
 <h2 align="center">Welcome to my page!</h2>
 <h3 align="center">I'm a Fullstack Software Developer from Medellin (Colombia)</h3>
 <br>
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kimha1030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kimha1030" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kimberlyhinostroza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kimberlyhinostroza" height="30" width="40" /></a>
+<a href="https://twitter.com/H1030Kimberly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kimha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kimhza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kimberlyhinostroza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
