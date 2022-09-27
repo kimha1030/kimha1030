@@ -8,8 +8,6 @@
 
 - 🤝 I would like to participate in **projects that can impact people's lives.**
 
-- 📫 How to reach me **kimha1030@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/H1030Kimberly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kimha" height="30" width="40" /></a>
